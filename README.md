@@ -25,7 +25,10 @@ changed div to img and added src img reference aswell as added an alt
         used only the social-media-marketing class for all articles
 
         used only the benefits-lead class for all sections
-        
+
+changed to foot to an H3 insted of H2
+  
+
 
 
 
