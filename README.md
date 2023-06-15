@@ -1,4 +1,7 @@
 # horison-refactor
+My motivation for this project was seeing there was alot of unnecessary code (mainly divs) and some missing code that needed to be cleaned up 
+
+
   STARTED THE PROJECT CHANGING ALL THE div TO MORE SPECIFIC CATEGORIES
     changed div to header aswell as .header to header in .css file
     
