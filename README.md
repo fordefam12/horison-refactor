@@ -1,5 +1,25 @@
 # horison-refactor
+MOTIVATION
+
 My motivation for this project was seeing there was alot of unnecessary code (mainly divs) and some missing code that needed to be cleaned up 
+
+MY WHY 
+
+a marketing agency has hired me to refactor an existing site to make it more accessible.
+
+PROBLEM SOLVED
+
+Cleaner code future better reference for other coders to read
+
+LEARNED
+
+I learned You can increase the efficiency of the CSS by consolidating the selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page for future reference of what work has been done
+
+MY PROJECT
+
+My project stands out because i have consolidated alot of the .css code for easier refernce much cleaner to read
+
+
 
 
   STARTED THE PROJECT CHANGING ALL THE div TO MORE SPECIFIC CATEGORIES
