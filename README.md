@@ -77,4 +77,4 @@ SCREENSHOT
 ![screenshot](<Horiseon Marketing.png>)
 
 URL
-https://github.com/fordefam12/horison-refactor
+https://fordefam12.github.io/horison-refactor/
