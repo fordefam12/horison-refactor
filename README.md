@@ -20,9 +20,19 @@ changed div to img and added src img reference aswell as added an alt
     
         changed div to section
 
+        added src reference and alt to all img files 
+
+        used only the social-media-marketing class for all articles
+
+        used only the benefits-lead class for all sections
+        
+
+
+
 COMBINED AND CHANGED .CSS CODE 
 
 changed all .headers to header 
+
 removed img code from .hero and adding an src reference and alt to index.html
 
 combinned benefit-lead,benefit-brand, and benefit-cost since they had the same code
